@@ -1,4 +1,4 @@
-#PROGRESS LOG
+# PROGRESS LOG
 
 5/18/2024
 - Start Figma diagram
