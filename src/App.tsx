@@ -1,11 +1,15 @@
 import { Header } from "./Header"
+import { SubHeader } from "./SubHeader"
 
 import "./App.css"
 
 export default function App() {
   return (
     <>
-      <Header />
+      <div className="app">
+        <Header />
+        <SubHeader />
+      </div>
     </>
   )
 }

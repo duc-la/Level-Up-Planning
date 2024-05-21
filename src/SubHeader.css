@@ -1,0 +1,26 @@
+.sub-header {
+  height: 32px;
+  width: 100%;
+
+  padding: 4px 8px;
+
+  display: flex;
+  align-items: center;
+
+  border-bottom: 1px solid gray;
+}
+
+.sub-header .sub-header-tab {
+  height: 100%;
+  width: 100px;
+  
+  margin: 0px 4px; 
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.sub-header .sub-header-tab:hover {
+  background-color: lightgray;
+}
